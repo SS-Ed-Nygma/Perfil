@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img src="https://i.discord.fr/XCm6.png" align="center" />
+   <img src="" align="center" />
 </div>
 
 ## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 3 bots para o discord 🚀</div>  

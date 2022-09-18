@@ -2,9 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/968299607689949225/968328057196806185/BEM_VINDO_V2_00000.png" style"width: 100%;border-radius:15px">
 </div>
 
-<div align="center">
-   <img src="" align="center" />
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/913326566296129556)
 
 ## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 3 bots para o discord 🚀</div>  
 

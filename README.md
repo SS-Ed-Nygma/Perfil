@@ -4,7 +4,7 @@
 
 ## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 3 bots para o discord 🚀</div>  
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![](https://discord.c99.nl/widget/theme-1/913326566296129556.png)  
 
 
 ***
@@ -18,7 +18,7 @@
 ***
 
 ## [Discord Server](https://discord.gg/NPQQRrvfyf) | [Instagram](https://www.instagram.com/ssednygma/)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/805836247704666172/widget.png?style=banner2"></a>
+<a href="https://discord.gg/NPQQRrvfyf"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
 
 ***
 

@@ -1,11 +1,11 @@
 const config = {
     
-    USERNAME: "User#0000",
+    USERNAME: "! SS-Ed-Nygma™#9855",
     /**
      * This can either be a file link (relative or external)
      * or a Gravatar email or hash.
      */
-    PICTURE: "assets/img/profile_picture.png",
+    PICTURE: "https://cdn.discordapp.com/attachments/1003540764241969214/1015669415259418705/d30f4a07b53ba066aace3c5f3dbc6199.png",
 
     DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
 

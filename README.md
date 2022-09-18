@@ -2,6 +2,10 @@
   <img src="https://cdn.discordapp.com/attachments/968299607689949225/968328057196806185/BEM_VINDO_V2_00000.png" style"width: 100%;border-radius:15px">
 </div>
 
+<div align="center">
+   <img src="https://i.discord.fr/XCm6.png" align="center" />
+</div>
+
 ## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 3 bots para o discord 🚀</div>  
 
 ![](https://discord.c99.nl/widget/theme-1/913326566296129556.png)  

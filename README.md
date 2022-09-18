@@ -6,10 +6,10 @@
 
 ![](https://discord.c99.nl/widget/theme-1/913326566296129556.png)  
 
-const config = {
+
     
-    USERNAME: "User#0000",
-    PICTURE: "assets/img/profile_picture.png",
+   ## USERNAME: "User#0000",
+   ## PICTURE: "assets/img/profile_picture.png",
 
     DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
 
@@ -29,7 +29,7 @@ const config = {
         { class_name: "fab fa-twitter", link: "https://twitter.com/discord" },
     ],
 
-}
+
 
 ***
 

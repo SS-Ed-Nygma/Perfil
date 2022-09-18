@@ -6,7 +6,6 @@
 
 ![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
-<img src="https://discordapp.com/api/guilds/[805836247704666172]/widget.png?style=banner1" alt="Discord server"/>
 
 ***
 
@@ -18,8 +17,8 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/dcdev) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Discord Server](https://discord.gg/NPQQRrvfyf) | [Instagram](https://www.instagram.com/ssednygma/)
+<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/805836247704666172/widget.png?style=banner2"></a>
 
 ***
 

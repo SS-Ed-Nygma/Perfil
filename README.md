@@ -22,6 +22,6 @@
 ***
 
 ## [Discord Server](https://discord.gg/NPQQRrvfyf) | [Instagram](https://www.instagram.com/ssednygma/)
-<a href="https://discord.gg/NPQQRrvfyf"><img src="[https://cdn.discordapp.com/attachments/968299607689949225/1020955887520723034/mockupBTL.png?size=4096](https://discord.gg/NPQQRrvfyf)"></a>
+<a href="https://discord.gg/NPQQRrvfyf"><img src='https://cdn.discordapp.com/attachments/968299607689949225/1020955887520723034/mockupBTL.png?size=4096'
 
 ***

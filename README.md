@@ -6,17 +6,13 @@
 
 ![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
-<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1" alt="Discord Banner 1"/>
+<img src="https://discordapp.com/api/guilds/[805836247704666172]/widget.png?style=banner1" alt="Discord server"/>
 
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
   
-
-- 🌱 I’m currently coding in **Javascript** and C#.  
+- 🌱 Eu uso **Javascript** para desenvolver meus projetos.  
   
-
-- ❓  I am in love with coding Discord Bots, I also love helping!.
   
 <br/>
   

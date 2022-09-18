@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/attachments/968299607689949225/968328057196806185/BEM_VINDO_V2_00000.png" style"width: 100%;border-radius:15px">
+  <a href="https://discord.gg/NPQQRrvfyf"><img src="https://cdn.discordapp.com/attachments/968299607689949225/968328057196806185/BEM_VINDO_V2_00000.png" style"width: 100%;border-radius:15px">
 </div>
 
 
@@ -14,7 +14,7 @@
 ***
 
   
-- 🌱 Eu uso **Javascript** para desenvolver meus projetos.  
+- 🉐 Eu uso **Javascript** para desenvolver meus projetos.  
   
   
 <br/>

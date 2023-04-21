@@ -7,7 +7,7 @@
 ## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 5 bots para o discord 🚀</div>  
 
 <div align="center" style"center">
-<a href="https://discord.gg/NPQQRrvfyf"><img src='https://cdn.discordapp.com/attachments/1003540764241969214/1020954274064252958/imagedev.png?size=4096'
+<a href="https://discord.gg/pcRTG92dVb"><img src='https://cdn.discordapp.com/attachments/1078343007918620723/1099003232325476412/card.dev.btl.png'
 </div>
 
 
@@ -23,5 +23,5 @@
 
 ## [DISCORD SERVER](https://discord.gg/NPQQRrvfyf)
   <div align="center" style"border-radius:15px">
-<a href="https://discord.gg/NPQQRrvfyf"><img src='https://cdn.discordapp.com/attachments/968299607689949225/1020955887520723034/mockupBTL.png?size=4096'
+<a href="https://discord.gg/pcRTG92dVb"><img src='https://cdn.discordapp.com/attachments/1078343007918620723/1096983253208027166/AC130V1_00232.png'
 </div>

@@ -4,7 +4,7 @@
 
 
 
-## <div align="center">Olá eu sou SS-Ed-Nygma, e eu fiz 5 bots para o discord 🚀</div>  
+## <div align="center">🏆 ! SS-Ed-Nygma 👑</div>  
 
 <div align="center" style"center">
 <a href="https://discord.gg/pcRTG92dVb"><img src='https://cdn.discordapp.com/attachments/1078343007918620723/1099003232325476412/card.dev.btl.png'

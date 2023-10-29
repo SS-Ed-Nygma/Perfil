@@ -3,8 +3,6 @@ Seja bem vindo(a) ao meu perfil!
 
 Discord: [Link](https://discord.gg/pcRTG92dVb)
 
-[![Servidor do discord](https://cdn.discordapp.com/emojis/1165116069208404059.webp?size=96&quality=lossless)](https://discord.gg/pcRTG92dVb)
-
 
 <table>
   <tr>

@@ -1,23 +1,21 @@
-# 🪴 Github | SS-Ed-Nygma
-Seja bem vindo(a) ao meu perfil!
+## Sobre mim
 
-Discord: [Link](https://discord.gg/pcRTG92dVb)
+Olá, eu sou @SSEdNygma e sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada começou em 2020 com projetos pequenos e experimentais, inicialmente voltados para necessidades específicas. No entanto, com o passar do tempo, percebi o potencial de expandir essas ideias e transformar meus projetos em algo acessível para diversas pessoas e comunidades.
 
 
-<table>
-  <tr>
-    <th align="center">PRESIDENTE & CEO</th>
-    <th align="center">CORPORAÇÃO</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://cdn.discordapp.com/attachments/1003540764241969214/1167950571081314355/ssednygmaedit.png?ex=654ffdbb&is=653d88bb&hm=77bc97adf8cdabe971a3a4fb8dee7e8b9547bfb7c42e5879348a58504ff160d8&" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://cdn.discordapp.com/attachments/1003540764241969214/1167948074077933638/BTL_LUXURY_BY_ED_NYGMA.gif?ex=654ffb68&is=653d8668&hm=34229874627ba99e15a84b5ddbfac9e7c400920501e18a48a6eacb9ccee1bef6&" alt=""></img>
-</td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">⭐⭐⭐⭐⭐</a></h3>
-    </th>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+
+## GitHub
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=SS-Ed-Nygma&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=SS-Ed-Nygma&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=SS-Ed-Nygma&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Meu contato
+
+<p align="center">🔗 Links: <a href="https://discord.gg/suits" target="_blank">ssednygma</a> Server: discord.gg/suits</p>
